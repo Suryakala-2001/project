@@ -1,0 +1,21 @@
+.nav{
+    background-color: blue;
+    padding: 5px;
+}
+.nav-list{
+    list-style: none;
+    display: flex;
+    
+    padding: 0;
+    margin: 0;
+    justify-content: space-around;
+}
+.nav-item{
+    margin: 0;
+}
+.nav-link{
+    text-decoration: aqua;
+    color: hsl(hue, saturation, lightness);
+    padding: 3px 10px;
+    border-radius: 2px;
+}

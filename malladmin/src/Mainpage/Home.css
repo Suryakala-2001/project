@@ -1,0 +1,18 @@
+
+.link{
+    height: 40px;
+    width: 120px;
+    text-decoration: none;
+    border: 1px rgb(196, 182, 103) solid;
+    padding: 6px;
+    margin: 7px 4px 0px 0px;
+    color: black;
+    border-radius: 7px;
+    background-color: white;
+    text-align: center;
+}
+.link:hover{
+    color: white;
+    background-color: black;
+    box-shadow: 0px 5px 5px 0px gray;
+}
